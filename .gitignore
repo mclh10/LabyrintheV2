@@ -1,0 +1,13 @@
+
+*.xml
+*.iml
+*.exe
+*.cache
+.idea/.idea.LabyrintheRobot/.idea/.name
+ConsoleApp1/bin/Debug/ConsoleApp1.exe
+ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+ConsoleApp1/obj/Debug/ConsoleApp1.exe
+ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+ConsoleApp1/obj/Debug/LabyrintheRobot.csproj.CoreCompileInputs.cache
+ConsoleApp1/obj/Debug/LabyrintheRobot.csproj.FileListAbsolute.txt
+ConsoleApp1/obj/Debug/LabyrintheRobot.csproj.CoreCompileInputs.cache
